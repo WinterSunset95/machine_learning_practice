@@ -4,9 +4,17 @@
 * median - the middle value
 * mode - the value which appears most frequently
   
-    numpy.mean()
-    numpy.median()
-    numpy.mode()
+<br>    numpy.mean()
+<br>    numpy.median()
+<br>    numpy.mode()
 
 * standard deviation - how spread out the values are
-    numpy.std()
+<br>    numpy.std()
+
+* variance - square of standard variation:
+<br>	a) Find the mean
+<br>	b) For each value, find the difference from the mean.
+<br>	c) For each difference, find the square 
+<br>	d) Variance is the average of those squares
+<br><br>    OR
+<br>	numpy.var()

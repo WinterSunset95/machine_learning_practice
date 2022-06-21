@@ -4,6 +4,9 @@
 * median - the middle value
 * mode - the value which appears most frequently
   
-  numpy.mean()
-       .median()
-       .mode()
+    numpy.mean()
+    numpy.median()
+    numpy.mode()
+
+* standard deviation - how spread out the values are
+    numpy.std()
